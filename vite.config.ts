@@ -8,5 +8,5 @@ export default defineConfig({
     vue(),
     Unocss(),
   ],
-  base: process.env.NODE_ENV === 'production' ? 'https://chenxch.github.io/xlegex/' : '/',
+  base: process.env.NODE_ENV === 'production' ? 'https://tianmanjun.github.io/9lege9/' : '/',
 })
